@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Square
+  - Circle
+  - Triangle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Junk
+  - Player
+  - Light
+  - Hiden
+  - Collectable
+  - Mask
+  - Trail
+  - Moveable
+  - CameraBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2870154431
+    locked: 0
+  - name: Hiden
+    uniqueID: 33079915
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3916350297
+    locked: 0
+  - name: OverlayObjects
+    uniqueID: 2514309561
+    locked: 0
